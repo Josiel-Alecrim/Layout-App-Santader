@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name"></string>
+    <string name="txt_saldo_disponivel">"balance available "</string>
+    <string name="txt_saldo_limite">"balance available "</string>
+    <string name="txt_ver_extrato">"View extract "</string>
+    <string name="txt_pagar">Pay</string>
+    <string name="txt_transferir">" transfer"</string>
+    <string name="txt_recarregar">Recharge</string>
+    <string name="txt_cartao_final">"Final Card "</string>
+</resources>
